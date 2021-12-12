@@ -1,2 +1,2 @@
 # ateneo
-Página web de uso ibre con proegramación en html, java.
+Página web de uso libre con programación en html, java.
